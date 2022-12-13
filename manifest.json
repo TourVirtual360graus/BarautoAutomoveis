@@ -1,9 +1,4 @@
 {
- "theme_color": "#FFFFFF",
- "name": "Barauto Automóveis",
- "description": "Faça um Tour Virtual e Conheça Nossa Loja",
- "display": "fullscreen",
- "background_color": "#FFFFFF",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
+ "background_color": "#FFFFFF",
+ "name": "Barauto Automóveis",
+ "description": "Faça um Tour Virtual e Conheça Nossa Loja",
+ "display": "fullscreen",
+ "theme_color": "#FFFFFF",
  "start_url": "index.htm"
 }
